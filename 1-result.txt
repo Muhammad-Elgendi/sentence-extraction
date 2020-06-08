@@ -1,0 +1,148 @@
+Every year SEO gets more difficult.
+
+More content is fighting for valuable real estate in the organic search results.
+
+How can your search listing stand out?
+
+By focusing on semantic SEO.
+
+What is Semantic SEO?
+Semantic SEO is the process of building more meaning into the words you use in your content.
+
+This means optimizing for the true intent of your users, not just answering a simple query. It means you answer the first question and then immediately answer the second, third, fourth, or fifth question right after that.
+
+Doing so gives more depth to your content and provides more value. Google loves to send searchers to pages where they will find exactly what they’re looking for.
+
+What does semantic SEO really translate to?
+
+More chances to obtain a variety of keyword rankings.
+An opportunity to rank for a longer period of time.
+Even though keyword rankings might not be sustainable over a long period of time, traffic can be.
+
+ADVERTISEMENT
+
+CONTINUE READING BELOW
+In fact, Google’s algorithm actively tells us what they are looking for when trying to match results to queries.
+
+All we have to do is look at the information Google gives freely to us.
+
+We can use this information to create and deliver more relevant content.
+
+How to Write Content Using Semantic SEO
+Semantic SEO involves figuring out the deeper meaning of why someone is searching for content and strategically placing those elements within your content piece.
+
+You can figure out these building blocks to create your content using hints Google provides within the SERPs.
+
+Google’s “related to search” and the “people also ask” sections are windows of opportunity.
+
+The deeper meaning of queries will help position your site to sustain the fluctuations of organic search.
+
+Ask yourself: Once the user learns from their query being answered, what additional questions will arise from this knowledge and continue to answer the new queries in one post?
+
+The search algorithm is also trying to anticipate the next query, so thinking like the search engine will help you understand what you have to do.
+
+ADVERTISEMENT
+
+CONTINUE READING BELOW
+Start With Traditional Methods of Keyword Research
+You can use any keyword research tool you’re comfortable with. I use Google’s Keyword Planner Tool.
+
+Pick a topic relevant to your business or website and build from there.
+
+Example: A plumber offers residential plumbing services. A big part of his business includes installing or servicing pipes in new and old homes. So, you’ll want to focus a post on this concept of piping.
+
+One highly valuable broad term is “plumbing pipes”. Let’s start building from there.
+
+My keyword research process looks like this:
+
+Broad term: plumbing pipes
+Expanded term: residential plumbing pipes (service offered)
+Once you decide to build your content around the topic of residential plumbing pipes, you then have to figure out how to construct the content piece, keeping semantic SEO in mind.
+
+What type of problem are you trying to address?
+How are you going to solve that problem with your content?
+Once you solve this problem, how do you address the additional problems that the user might have after learning the first answer?
+Suffering from fewer conversions for the same ad spend on your Google Ads?
+Your ads might be getting click fraud. Check if you need to protect your ads from competitors & bots. Simple setup. Start your free checkup today.
+
+RUN A FREE CHECKUP
+ADVERTISEMENT
+How to Extract Semantic Information From Google
+Start by searching for [residential plumbing pipe] on Google.
+
+What do you see?
+
+Use the information on Google’s SERPs to create the building blocks of a post.
+
+Start from the bottom by using the “searches related to” section.
+
+There are a handful of ideas here you can use to construct the full content piece:
+
+related searches
+Based on this information, you can make some assumptions about the intent of your customers. They want to know:
+
+What a PEX plumbing pipe is.
+What plumbing pipe types are out there and their uses.
+Whether new homes need different pipes. What about older homes?
+About the material.
+Which pipes are best for their water supply.
+ADVERTISEMENT
+
+CONTINUE READING BELOW
+When you put all these assumptions together, they create the skeleton for an informative and high-value piece of content.
+
+Now you just need to create a catchy headline then include these assumptions as blocks within the content piece itself.
+
+Semantic SEO Helps You Earn Featured Snippets
+Using the SERPs to create content is valuable because it gives you direction.
+
+It can even help you rank above Position 1.
+
+Featured snippets aren’t new to SERPs and neither is the “People also ask” section. These sections are interesting because they are part of the new concept of “position zero”.
+
+While it is always amazing to get the top position in organic search, now there’s ample opportunity to appear before number one.
+
+ 
+
+SERPS for residential plumbing pipes
+In the example above, the featured snippet is above the top organic search result. It’s accompanied by an image and has much larger text.
+
+ADVERTISEMENT
+
+CONTINUE READING BELOW
+A user might not even bother to scroll down far enough to see the “number one” ranking.
+
+The Value of Semantic SEO
+To paint an even clearer picture, let’s look back at what I said about using the SERPs to your advantage when creating content.
+
+When you click on the blue links within the field of related searches, they will generate a completely different search results page.
+
+Clicking on [plumbing pipe types and uses] within the related searches box to be sent to the new SERP.
+
+Query: plumbing pipe types and uses
+You could also click on the query [best pipe material for drinking water supply] for a new SERP.
+
+Query: best pipe material for drinking water supply
+Three different search queries. Three different pages rank first in organic search results.
+
+ADVERTISEMENT
+
+CONTINUE READING BELOW
+But each SERP retains the same rich answer.
+
+Why?
+
+Because the page that appears in the featured snippet has depth.
+
+That depth addresses different layers of popular related search queries.
+
+The value here is obvious:
+
+The post can afford to lose keyword rankings for one of these search queries and still sustain a good amount of its organic traffic in the long run.
+
+We can’t control whether our content ranks for our targeted keyword, but we can strategize to attack the SERPs with a series of different keyword targets.
+
+The post was intended to rank for the query [plumbing pipes]. It has since lost its ability to do so within organic search results. But the post has so much depth that it still retains its traffic and continues to grow over time.
+
+Conclusion
+Offering value, building relevancy, and thinking about the new problems your customers will face is what will separate your post from all the other ones over a longer period of time.

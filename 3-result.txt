@@ -1,0 +1,34 @@
+ What is Semantic SEO?
+Semantic SEO is a marketing technique to improve the traffic of a website by providing search engines with metadata and semantically relevant content that can unambiguously answer a specific search intent.
+In 2011 as Google and other search engines began moving towards Artificial Intelligence and natural language processing to understand the searcher’s intent and the meaning of a query they started to work with entities and concepts rather than parsing questions and web pages using keywords.
+
+As search engines got smarter and they started to dive into the real meaning of words, content owners have begun to move from creating web pages to describing these web pages using linked open data and semantic web technologies. This has become possible with the creation of the schema.org vocabulary, an initiative launched in 2011 by the world’s biggest search engines (Bing, Google and Yahoo!) to implement a common data schema structure to describe web pages. On 1 November 2011 Russian largest search engine Yandex also joined the community.
+
+An overview of the schema.org vocabulary
+An overview of the schema.org vocabulary
+
+Why Semantic SEO?
+In a nutshell, search engines need context to understand a query properly and to fetch relevant results for it. Contexts are built using words, expressions, and other combinations of words and links as they appear in bodies of knowledge such as encyclopedias and large corpora of text.
+
+Semantic SEO is a marketing technique that improves the traffic of a website by providing meaningful metadata and semantically relevant content that can unambiguously answer a specific search intent. It is also a way to create clusters of content that are semantically grouped into topics rather than keywords. In a famous Google patent on context-vectors, an example with the word “horse” is provided. Same word but with different meanings in different contexts: a “horse” is an animal for an equestrian, a working tool for a carpenter, and a sport equipment for a gymnast. In Semantic SEO, much like Wikipedia does, content is cataloged and organized around each context in such a way that machines can understand and value its uniqueness.
+
+What is SEO Semantic writing?
+SEO semantic writing is a content marketing technique to rank on semantic search engines. In traditional SEO copywriting an editor targets a specific keyword. In the Semantic SEO writing an editor starts with a broader set of topics, rather than keywords, and will adjust the content to include semantically relevant terms and phrases that can help a reader understand a topic much like he or she would do when reading content on a Wiki.
+
+From a content writing perspective, a practical way to start is to prepare a vocabulary of the terms and the questions that surround your target topic. This is how you can start thinking strategically about the content you’re going to write.
+
+? Learn more about SEO semantic writing by watching the free Webinar by Teodora Petkova!
+
+What are the benefits that come from Semantic SEO?
+Those that are taking advantage of Semantic Technologies to build a Semantic SEO strategy are benefiting from staggering results. From a research paper put together with our team, presented at SEMANTiCS 2017, we documented that structured data is compelling from the digital marketing standpoint.
+
+For instance, on the analysis of the design-focused website freeyork.org, after three months of using structured data in their WordPress website we saw the following metrics improvements:
+
++12.13% new users
++18.47% increase in organic traffic
++2.4 times increase in page views
++13.75% of sessions duration
+In other words, many still think of Semantic Technologies belonging to the future, when in reality quite a few players in the digital marketing space are taking advantage of them already. 
+
+Test your Semantic SEO skills
+Are you ready to test your Semantic SEO skills? Get close to a Google Home, Android 6.0+ phones or iOS 9.0+ phones with the Google Assistant installed and shout loud and clear “Ok Google, talk with Dr. Search Marketing” – our chatbot to help you get up to speed with semantic web and advanced SEO tactics.
